@@ -1,0 +1,5 @@
+{
+  "name": "N-Dimensional Polytope Visualizer",
+  "description": "An interactive application to visualize n-dimensional analogues of the tetrahedron (n-Simplex), cube (n-Cube), and octahedron (n-Orthoplex). Adjust the dimension 'n' with the slider to see how these geometric shapes evolve in higher dimensions, projected into 2D space.",
+  "requestFramePermissions": []
+}
